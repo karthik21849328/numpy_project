@@ -1,6 +1,6 @@
 # pandas_project
 
-dataset used : https://www.kaggle.com/dmitrynikolaev/youtube-dislikes-dataset
+Dataset used : https://www.kaggle.com/dmitrynikolaev/youtube-dislikes-dataset
 
 Performed tasks on the datsets
 
