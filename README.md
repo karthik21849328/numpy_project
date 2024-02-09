@@ -1,4 +1,4 @@
-# numpy_project
+# pandas_project
 
 dataset used : https://www.kaggle.com/dmitrynikolaev/youtube-dislikes-dataset
 
